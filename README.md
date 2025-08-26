@@ -8,7 +8,7 @@
 # Emmanuel Galeano Martinez
 
 #Julian Zuluaga
-
+# Jose Manuel Aguirre
 
 # Cambio 1
 
